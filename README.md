@@ -1,2 +1,25 @@
-# Calculator
-This is a basic calculator application built to perform common arithmetic operations such as addition, subtraction, multiplication, and division. It features a clean and responsive user interface, and is ideal for learning or demonstrating core programming concepts like event handling, input validation, and UI interaction
+🧮 Simple Web Calculator
+A stylish and responsive calculator built using HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and works seamlessly on both desktop and mobile devices.
+
+🚀 Features
+Basic operations: Addition, Subtraction, Multiplication, and Division
+
+Supports both mouse clicks and keyboard input
+
+Responsive design for various screen sizes
+
+Error handling (e.g., division by zero)
+
+Clean, modern UI with animated button interactions
+
+🖥️ Live Preview
+You can view the calculator in action here (add link if hosted):
+Live Demo
+
+📂 Project Structure
+bash
+Copy code
+📁 calculator/
+├── index.html       # Structure of the calculator
+├── style.css        # Styling and layout
+└── script.js        # Functional logic
