@@ -1,6 +1,8 @@
 🧮 Simple Web Calculator
 A stylish and responsive calculator built using HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations and works seamlessly on both desktop and mobile devices.
 
+View Calculator:- https://ma-ya-nk-p3.github.io/Calculator/
+
 🚀 Features
 Basic operations: Addition, Subtraction, Multiplication, and Division
 
